@@ -1,6 +1,6 @@
 # Olá, eu sou o Ricardo Gasparelo 👋
 
-Estudante de **Administração na UFPR** e **Gerente de Marketing da JR Consultoria** (empresa júnior da UFPR). Conduzo projetos de ponta a ponta e construo, com IA, ferramentas que tiram o trabalho manual da rotina: de agentes e skills para o Claude Code a um app completo de inglês.
+Estudante de **Administração na UFPR** e **Gerente de Marketing da JR Consultoria** (empresa júnior da UFPR). Conduzo projetos de ponta a ponta e construo, com IA, ferramentas que tiram o trabalho manual da rotina: de agentes e skills para o Claude Code a apps completos de inglês e de oratória.
 
 🌐 **Portfólio:** [githubiogithubio.vercel.app](https://githubiogithubio.vercel.app) · 💼 **LinkedIn:** [Ricardo Gasparelo](https://www.linkedin.com/in/ricardo-gasparelo-212381380/) · 📍 Curitiba, PR
 
@@ -11,6 +11,7 @@ Estudante de **Administração na UFPR** e **Gerente de Marketing da JR Consulto
 | Projeto | O que é | Status |
 |---|---|---|
 | [**Business English**](https://github.com/ricardogasparelo/business-english-app) | App estilo Duolingo de inglês para negócios: 78 lições (A1–C2), avaliação adaptativa, plano que se ajusta toda semana, conversas guiadas, relatório semanal e conta na nuvem. [▶ Abrir o app](https://zingy-custard-e9831e.netlify.app) | 🟢 no ar |
+| [**Boa fala**](https://github.com/ricardogasparelo/boa-fala-app) | App estilo Duolingo de oratória que mede a fala no celular (ritmo, vícios, pausas, clareza e tom): 84 lições, provas gravadas, situações guiadas com voz, plano adaptativo e relatório semanal. [▶ Abrir o app](https://boa-fala.netlify.app) | 🟢 no ar |
 | [**ResolveAgent**](https://github.com/ricardogasparelo/resolve-agent) | Agente que edita vídeos dentro do DaVinci Resolve pela API Python: corta no beat, tira silêncios, legenda e cria motion. 14 skills | 🟢 em uso pelo time |
 | [**Editor de vídeo (skill)**](https://github.com/ricardogasparelo/skill-editor-video) | Edita entrevistas do Papo de Fundador em português: transcrição, cortes, câmera virtual, legenda, motion 3D atrás da pessoa e conferência de qualidade | 🟢 em uso |
 | [**video-pessoa (skill)**](https://github.com/ricardogasparelo/skill-video-pessoa) | Da ideia ao Reels de uma pessoa falando: entrevista, roteiro com direção, prévia antes de gravar, cortes e edição com motion | 🟢 pronta |
