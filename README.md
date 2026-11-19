@@ -16,7 +16,9 @@ Estudante de **Administração na UFPR** e **Gerente de Marketing da JR Consulto
 | [**Editor de vídeo (skill)**](https://github.com/ricardogasparelo/skill-editor-video) | Edita entrevistas do Papo de Fundador em português: transcrição, cortes, câmera virtual, legenda, motion 3D atrás da pessoa e conferência de qualidade | 🟢 em uso |
 | [**video-pessoa (skill)**](https://github.com/ricardogasparelo/skill-video-pessoa) | Da ideia ao Reels de uma pessoa falando: entrevista, roteiro com direção, prévia antes de gravar, cortes e edição com motion | 🟢 pronta |
 | [**video-ia (skill)**](https://github.com/ricardogasparelo/skill-video-ia) | Vídeos 100% animados a partir da narração: 49 blocos visuais, 19 temas e conferência automática | 🟢 pronta |
-| [**Fábrica de cortes com IA**](https://github.com/ricardogasparelo/skill-fabrica-de-cortes) | E-book + skill que transforma lives em dezenas de cortes verticais | 🟢 pronto |
+| [**Fábrica de Cortes com IA**](https://github.com/ricardogasparelo/skill-fabrica-de-cortes) | Negócio completo em 6 frentes: cortes automáticos de lives, postagem, curso em PDF, landing page com checkout e área de membros própria. [▶ Ver a landing](https://fabrica-de-cortes.netlify.app) | 🟢 no ar |
+| [**Cortes ao vivo**](https://github.com/ricardogasparelo/skill-cortes-ao-vivo) | Acompanha lives em tempo real e entrega cortes 9:16 com legenda e texto do post, 100% local e sem API paga | 🟢 pronta |
+| [**Postagem automática**](https://github.com/ricardogasparelo/skill-postar-redes) | Posta Reels e Shorts por fila pelas APIs oficiais do Instagram e do YouTube, de graça | 🟢 em uso |
 | **Relatórios automatizados** | n8n + Python + Looker Studio coletando LinkedIn Ads, Instagram, GA4 e Search Console: **3 a 5 h economizadas por semana** | 🟢 em uso pelo time |
 | **Skill de pauta editorial** | Lê fontes confiáveis e sugere pautas para as 6 categorias do blog da JR | 🟢 em uso pelo time |
 
