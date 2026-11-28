@@ -15,6 +15,7 @@ Estudante de **Administração na UFPR** e **Gerente de Marketing da JR Consulto
 | [**ResolveAgent**](https://github.com/ricardogasparelo/resolve-agent) | Agente que edita vídeos dentro do DaVinci Resolve pela API Python: corta no beat, tira silêncios, legenda e cria motion. 14 skills | 🟢 em uso pelo time |
 | [**Editor de vídeo (skill)**](https://github.com/ricardogasparelo/skill-editor-video) | Edita entrevistas do Papo de Fundador em português: transcrição, cortes, câmera virtual, legenda, motion 3D atrás da pessoa e conferência de qualidade | 🟢 em uso |
 | [**video-pessoa (skill)**](https://github.com/ricardogasparelo/skill-video-pessoa) | Da ideia ao Reels de uma pessoa falando: entrevista, roteiro com direção, prévia antes de gravar, cortes e edição com motion | 🟢 pronta |
+| [**video-recorte (skill)**](https://github.com/ricardogasparelo/skill-video-recorte) | Reels em que a pessoa aparece recortada comentando vídeos atrás: só takes olhando para a câmera, tosse aparada, legenda e motion | 🟢 pronta |
 | [**video-ia (skill)**](https://github.com/ricardogasparelo/skill-video-ia) | Vídeos 100% animados a partir da narração: 49 blocos visuais, 19 temas e conferência automática | 🟢 pronta |
 | **Relatórios automatizados** | n8n + Python + Looker Studio coletando LinkedIn Ads, Instagram, GA4 e Search Console: **3 a 5 h economizadas por semana** | 🟢 em uso pelo time |
 | **Skill de pauta editorial** | Lê fontes confiáveis e sugere pautas para as 6 categorias do blog da JR | 🟢 em uso pelo time |
